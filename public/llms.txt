@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+מתמחים בתיווך מגרשים לבניה, קבלנות שלד ועבודות בניה ברמה הגבוהה בישראל. פתרונות נדל&quot;ן יוקרתיים ליזמים ומשקיעים. התחילו את הפרויקט שלכם עכשיו!
+
+### שירותים
+https://example.com/services
+גלו את מגוון שירותי הנדל&quot;ן והבניה שלנו: תיווך מגרשים לבניה, קבלנות שלד מקצועית, והשמת עובדים זרים. פתרונות מותאמים אישית לכל פרויקט בניה ויזמות.
+
+### פרויקטים
+https://example.com/projects
+צפו בתיק העבודות המרשים שלנו: מגרשים למכירה ליזמים, פרויקטי בניה מובילים ועבודות קבלנות ברמה הגבוהה ביותר. ניסיון מוכח בשוק הנדל&quot;ן הישראלי.
+
+### צור קשר
+https://example.com/contact
+מעוניינים בתיווך מגרשים לבניה או שירותי קבלנות? צרו קשר עכשיו לייעוץ ללא התחייבות. נציגינו המקצועיים ישמחו לסייע בכל שאלה ולהתאים את הפתרון המושלם עבורכם.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
